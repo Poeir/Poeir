@@ -41,7 +41,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Phuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhuriCharicha&show_icons=true&theme=radical)
+![Phuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Poeir&show_icons=true&theme=radical)
 
 ---
 
